@@ -4,7 +4,7 @@ html, css, react, chakra-ui, react-router,react-icons
 # backend tech stack :
 node.js, express, mongodb, multer, nodemon
 # video expain link :
-https://drive.google.com/file/d/10yFdMOgYzdbg8kG6Hsequ0r546pVCExI/view?usp=sharing
+https://drive.google.com/file/d/13N42dtJAqxARKQuEA4rO9_zL41UKa-2F/view?usp=sharing
 # how to run :
 * clone this repo inside your local system;
 1) open user_backend folder in your terminal;
