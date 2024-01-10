@@ -44,7 +44,7 @@ const EditeProfile = ({ openEdit, setOpenEdit, setRefresh, refresh }) => {
       formData.append("address", inputData.address);
 
       axios
-        .post("http://localhost:4500/user/uploaddata", formData, {
+        .post("https://kryzen-udsv.onrender.com/uploaddata", formData, {
           headers: {
             "Content-Type": "multipart/form-data",
             Authorization: state.token,
